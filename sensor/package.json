@@ -21,6 +21,7 @@
   "dependencies": {
     "express": "^4.15.2",
     "node-red": "^0.16.2",
+    "node-red-contrib-influxdb": "^0.1.1",
     "node-red-contrib-python-function": "0.0.2",
     "node-red-node-smooth": "0.0.10",
     "path": "^0.12.7"
